@@ -2,12 +2,12 @@
 
 ## 🧠 Applied Projects Parallel Roadmap
 
-Esta organización reúne la ruta **Building Projects 2.0**.
+Esta organización reúne la ruta **Building Projects**.
 
 Esta ruta acompaña directamente a:
 
 ```txt id="bp-path"
-Path-AI-Engineer-2.0
+Path-AI-Engineer
 ```
 
 Building Projects no reemplaza AI Engineer.
