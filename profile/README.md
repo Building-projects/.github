@@ -1,172 +1,131 @@
-# Building-Projects
+# Building Projects
 
-## 🧱 Building Projects Roadmap
+## 🧠 Applied AI, Quantum Tools, Product Systems & Portfolio Projects
 
-Bienvenido a **Building-Projects**, una organización creada para construir proyectos propios pequeños, visibles, terminables y alineados con la ruta principal de **Path-AI-Engineer**.
+Esta organización reúne la ruta **Building Projects 2.0**.
 
-Esta organización no reemplaza la ruta principal de AI Engineer.
+Esta ruta acompaña directamente a:
 
-La acompaña.
+```txt
+Path-AI-Engineer-2.0
+```
 
-Mientras **Path-AI-Engineer** trabaja la profundidad técnica, sistemas grandes, MLOps, cloud, RAG, agentes, IA cuántica y plataformas, **Building-Projects** convierte ese aprendizaje en herramientas prácticas, microproductos, dashboards, notas visuales, reportes, portales y evidencia aplicada.
+No reemplaza la ruta principal.
+
+La complementa.
+
+Mientras **AI Engineer** construye profundidad técnica, sistemas fuertes, APIs, modelos, cloud, MLOps, agentes, Quantum AI, robótica y plataformas, **Building Projects** construye evidencia visible, herramientas pequeñas, dashboards, demos, portales, generadores, visualizadores, calculadoras, reportes y microproductos terminables.
 
 ---
 
 # 🎯 Objetivo general
 
-Construir una línea paralela de proyectos propios que conviertan el aprendizaje técnico en evidencia visible.
+Construir una línea paralela de proyectos aplicados que demuestren utilidad real, evidencia visual y dominio progresivo.
 
-La ruta busca formar un perfil que no solo diga:
+La ruta busca formar un perfil que no solo pueda decir:
 
 ```txt
-Estoy aprendiendo IA.
+Estoy aprendiendo AI Engineer.
 ```
 
-Sino:
+Sino también:
 
 ```txt
-Sé construir microproductos de IA.
-Sé convertir datos en insights.
-Sé crear dashboards útiles.
-Sé hacer herramientas RAG pequeñas.
-Sé crear asistentes de estudio.
-Sé aplicar IA a negocio real.
-Sé crear herramientas de documentación técnica.
-Sé organizar investigación.
-Sé visualizar benchmarks.
-Sé crear portales técnicos.
-Sé hacer proyectos pequeños pero terminables.
-Sé acompañar mi ruta grande con evidencia aplicada.
+Estoy construyendo herramientas visibles mientras aprendo.
+Tengo microproductos.
+Tengo dashboards.
+Tengo demos.
+Tengo portales.
+Tengo reportes.
+Tengo visualizadores.
+Tengo documentación.
+Tengo evidencia aplicada de cada etapa de mi ruta.
 ```
 
 ---
 
-# 🧭 Filosofía de trabajo
+# 🧭 Filosofía de Building Projects
 
-Cada proyecto se trabaja con una estructura clara:
+Building Projects existe para convertir aprendizaje en evidencia.
+
+Regla central:
 
 ```txt
-Día 1 → Exploración
-Día 2 → Ejecución
-Día 3 → Ejecución
-Día 4 → Ejecución
+AI Engineer = profundidad técnica.
+Building Projects = aplicación visible.
+
+AI Engineer = sistemas grandes.
+Building Projects = herramientas terminables.
+
+AI Engineer = ingeniería profunda.
+Building Projects = portafolio aplicado.
 ```
 
-## Día de exploración
+No todos los Building Projects necesitan:
 
-El día de exploración sirve para entender antes de construir.
+* backend completo;
+* API;
+* frontend complejo;
+* modelo entrenado;
+* cloud real;
+* Kubernetes;
+* MLOps;
+* arquitectura pesada.
 
-En este día se define:
+Cada proyecto debe tener el tamaño correcto para ser:
 
-* Qué se va a construir.
-* Con qué proyecto principal se conecta.
-* Qué problema pequeño resuelve.
-* Qué usuario tendría.
-* Qué módulo corresponde.
-* Qué lab corresponde.
-* Qué resultado visible se espera.
-* Qué se hará en los próximos 3 días.
-
-## Días de ejecución
-
-Los días de ejecución sirven para construir, probar y documentar.
-
-En estos días se trabaja:
-
-* Código.
-* Notebooks.
-* Dashboards.
-* Labs.
-* Reportes.
-* README.
-* Capturas.
-* Demos.
-* Aprendizajes.
+```txt
+pequeño
+útil
+visible
+explicable
+terminable
+publicable
+```
 
 ---
 
 # 🧩 Sistema de organización
 
-## Organización
+## Proyecto propio aplicado
 
-```txt
-Building-Projects
-```
+Un proyecto propio aplicado es un repositorio pequeño o mediano que demuestra una habilidad concreta.
 
-Contiene los planes de proyectos propios alineados al camino principal de AI Engineer.
+Puede ser:
 
-## Repositorios principales
+* dashboard;
+* mini app;
+* notebook visual;
+* generador de reportes;
+* portal ligero;
+* visualizador;
+* calculadora;
+* buscador;
+* asistente pequeño;
+* tracker;
+* plantilla técnica;
+* herramienta de documentación;
+* demo de arquitectura.
 
-```txt
-Applied-AI
-Applied-Quantum-AI
-Product-Quantum-First
-Quantum-AI-Research
-```
+Debe tener, según corresponda:
 
-## Proyectos
-
-Cada proyecto vive dentro del repositorio correspondiente como carpeta o subproyecto.
-
-Ejemplo:
-
-```txt
-Applied-AI/
-└── 01-product-demand-insight-lite/
-```
-
-## Labs
-
-Cada lab es un experimento pequeño y cerrado.
-
-Regla personal:
-
-```txt
-Un lab debe durar 1 día de horario.
-```
-
-Un lab no debe quedar suelto.
-
-Debe alimentar un proyecto propio y conectarse con el proyecto grande correspondiente.
+* README;
+* capturas;
+* demo local;
+* outputs;
+* gráficos;
+* tablas;
+* documentación;
+* ejemplos;
+* labs pequeños;
+* explicación clara;
+* siguiente paso.
 
 ---
 
-# 📚 Conceptos base
-
-## Proyecto propio aplicado
-
-Un proyecto propio aplicado es un repositorio pequeño o mediano de GitHub.
-
-Debe demostrar una habilidad concreta y visible.
-
-No tiene que ser tan grande como un proyecto principal de AI Engineer.
-
-Debe ser:
-
-* Terminable.
-* Útil.
-* Publicable.
-* Entendible.
-* Documentado.
-* Ligero.
-* Visible.
-
-Puede incluir:
-
-* README.
-* Frontend simple.
-* Backend simple si aplica.
-* Notebook si aplica.
-* Datos de ejemplo.
-* Dashboard.
-* Demo.
-* Capturas.
-* Documentación.
-* Labs pequeños.
-
 ## Módulo
 
-Un módulo es una parte funcional o técnica del proyecto.
+Un módulo es una parte funcional del proyecto.
 
 Ejemplo:
 
@@ -177,598 +136,696 @@ Módulo: Insight Cards
 Significa:
 
 ```txt
-Tomo resultados de datos.
-Los convierto en tarjetas visuales.
-Explico qué significan.
-Hago que el usuario entienda el resultado.
+Tomar resultados técnicos.
+Convertirlos en tarjetas entendibles.
+Explicar qué significan.
+Hacerlos útiles para el usuario.
 ```
+
+---
 
 ## Lab
 
 Un lab es un experimento pequeño y cerrado.
 
-Ejemplo:
+En Building Projects los labs no deben volverse tan grandes como en AI Engineer.
+
+Deben ser:
 
 ```txt
-ml-basic-demand-insight-lab
+cortos
+visibles
+documentados
+comparativos
+terminables
 ```
 
-Significa:
+Tipos de labs:
 
 ```txt
-Practico análisis básico de demanda en pequeño antes de convertirlo en una herramienta visible.
+tec-labs
+cloud-labs
+product-labs
+research-labs
+biz-labs
 ```
 
 ---
 
-# 🧪 Tipos de labs
+# 🧪 Tipos de proyectos
 
-## tec-labs
+## Microproducto
 
-Laboratorios técnicos.
-
-Ejemplos:
-
-* Dashboard cards.
-* Prompt comparison.
-* Cost estimation.
-* Latency tables.
-* Frontend demos.
-* API templates.
-
-## ml-labs
-
-Laboratorios de Machine Learning.
+Herramienta pequeña con valor visible.
 
 Ejemplos:
 
-* Sales EDA.
-* Product ranking.
-* Basic demand insight.
-* Naive forecast.
-* Moving average.
-* Forecast error.
-
-## rag-labs
-
-Laboratorios de RAG y embeddings.
-
-Ejemplos:
-
-* Chunking básico.
-* Semantic search.
-* Source display.
-* Question answering.
-* Glossary mode.
-
-## biz-labs
-
-Laboratorios de negocio.
-
-Ejemplos:
-
-* Product cards.
-* Pricing tables.
-* MVP summary.
-* ROI summary.
-* Value proposition.
-* Use case cards.
-
-## docs-labs
-
-Laboratorios de documentación.
-
-Ejemplos:
-
-* One-pagers.
-* Roadmaps.
-* API docs.
-* Technical reports.
-* Visual notes.
-* Migration docs.
-
-## research-labs
-
-Laboratorios de investigación aplicada.
-
-Ejemplos:
-
-* Paper registry.
-* Reading status.
-* Concept notes.
-* Research summaries.
-
-## benchmark-labs
-
-Laboratorios de benchmarks.
-
-Ejemplos:
-
-* Result tables.
-* Model summaries.
-* Decision reports.
-* Noise notes.
-
-## optimization-labs
-
-Laboratorios de optimización.
-
-Ejemplos:
-
-* Scenario input.
-* Constraint forms.
-* Result comparison.
-* Convergence charts.
-
-## portal-labs
-
-Laboratorios de portales.
-
-Ejemplos:
-
-* Project gallery.
-* Learning notes.
-* Demo links.
-* Final storytelling.
+* dashboard de ventas;
+* generador de reportes;
+* calculadora de costos;
+* buscador semántico pequeño.
 
 ---
 
-# 🗺️ Ruta completa
+## Visual Tool
 
-La ruta se divide en 4 grandes planes.
+Herramienta para explicar conceptos difíciles con tarjetas, diagramas, tablas o gráficos.
 
-| Plan   | Repositorio             | Enfoque                                             |
-| ------ | ----------------------- | --------------------------------------------------- |
-| Plan 1 | `Applied-AI`            | IA aplicada / microproductos ML                     |
-| Plan 2 | `Applied-Quantum-AI`    | IA cuántica aplicada / herramientas quantum ligeras |
-| Plan 3 | `Product-Quantum-First` | Producto, negocio y empresa quantum-first           |
-| Plan 4 | `Quantum-AI-Research`   | Investigación aplicada / Quantum AI tools ligeros   |
+Ejemplos:
+
+* quantum concept cards;
+* neural network visual notes;
+* RL state-action visualizer.
 
 ---
 
-# 1️⃣ Plan 1 — IA Aplicada / Microproductos ML
+## Demo Portal
 
-Repositorio:
+Portal ligero que agrupa información, proyectos o resultados.
+
+Ejemplos:
+
+* portfolio platform;
+* AI lab portal;
+* roadmap portal;
+* research portal.
+
+---
+
+## Report Generator
+
+Herramienta que convierte inputs en reportes.
+
+Ejemplos:
+
+* model quality report;
+* PQC risk report;
+* generative evaluation report;
+* migration roadmap generator.
+
+---
+
+## Applied Notebook
+
+Notebook serio, visual y documentado.
+
+Ejemplos:
+
+* latency notebook;
+* benchmark notebook;
+* optimizer comparison notebook.
+
+---
+
+# 🗺️ Relación con AI Engineer 2.0
+
+Building Projects 2.0 tendrá **12 planes**, igual que la ruta principal.
+
+Cada plan de Building Projects acompaña un plan de AI Engineer.
+
+Pero con una diferencia:
 
 ```txt
-Applied-AI
+AI Engineer tendrá proyectos principales grandes.
+Building Projects tendrá proyectos más pequeños y visibles.
 ```
 
-## Objetivo
-
-Construir microproductos de IA aplicada usando datos, modelos simples, dashboards, visualización, pequeñas APIs, reportes y portales ligeros.
-
-Este plan acompaña el Plan 1 de Path-AI-Engineer.
-
----
-
-## Proyectos
-
-| Proyecto | Nombre                              | Enfoque                                 |
-| -------- | ----------------------------------- | --------------------------------------- |
-| 01       | `product-demand-insight-lite`       | Insights básicos de demanda             |
-| 02       | `mini-sales-forecast-dashboard`     | Forecasting ligero de ventas            |
-| 03       | `cloud-ml-pipeline-notes-dashboard` | Notas visuales de pipeline ML cloud     |
-| 04       | `model-quality-report-generator`    | Reportes simples de calidad ML          |
-| 05       | `personal-document-search-rag-lite` | Buscador semántico ligero               |
-| 06       | `ai-response-cost-latency-notebook` | Costos y latencia de respuestas IA      |
-| 07       | `ai-portfolio-platform-lite`        | Portal ligero de proyectos y evidencias |
-
----
-
-## Temario principal
-
-* Python.
-* Pandas.
-* NumPy.
-* Scikit-learn.
-* EDA.
-* Features simples.
-* Baseline.
-* Modelos clásicos.
-* Métricas.
-* Dashboards.
-* Frontend ligero.
-* FastAPI opcional.
-* Visualización.
-* Reportes.
-* Deploy simple.
-* README.
-* Storytelling técnico.
-* Documentación visual.
-* Costos.
-* Latencia.
-* RAG ligero.
-* Portafolio técnico.
-
----
-
-## Nivel esperado al terminar Plan 1
-
-| Área                                      |  Nivel |
-| ----------------------------------------- | -----: |
-| EDA aplicada                              |   8/10 |
-| Pandas práctico                           |   8/10 |
-| Visualización                             |   8/10 |
-| Dashboards ligeros                        | 8.5/10 |
-| Forecasting básico                        | 7.5/10 |
-| Segmentación o análisis de comportamiento | 7.5/10 |
-| Métricas de modelos                       |   8/10 |
-| Reportes ML                               | 8.5/10 |
-| Interpretación de resultados              |   8/10 |
-| Storytelling técnico                      | 8.5/10 |
-| Documentación de proyectos pequeños       | 8.5/10 |
-| Evidencia visual de aprendizaje           | 8.5/10 |
-
----
-
-# 2️⃣ Plan 2 — IA Cuántica Aplicada / Herramientas Quantum Ligeras
-
-Repositorio:
+Por eso, en lugar de 72 proyectos grandes, Building Projects tendrá:
 
 ```txt
-Applied-Quantum-AI
+36 proyectos propios aplicados
+```
+
+Es decir:
+
+```txt
+3 proyectos propios por cada plan de AI Engineer.
+```
+
+---
+
+# 📊 Estructura general
+
+| Plan | Nombre                            | Relación con AI Engineer                          | Proyectos |
+| ---: | --------------------------------- | ------------------------------------------------- | --------: |
+|    1 | Applied ML Microproducts          | Plan 1 — ML Engineering                           |         3 |
+|    2 | Deep Learning Visual Tools        | Plan 2 — Deep Learning Core                       |         3 |
+|    3 | Advanced ML Applied Tools         | Plan 3 — Advanced ML Backgrounds                  |         3 |
+|    4 | Vision & Multimodal Demos         | Plan 4 — Computer Vision / Multimodal             |         3 |
+|    5 | RAG, Agents & Tooling Apps        | Plan 5 — LLMs / RAG / Agents                      |         3 |
+|    6 | Generative AI Demo Tools          | Plan 6 — Generative Models                        |         3 |
+|    7 | RL & Simulation Visual Labs       | Plan 7 — RL / World Models / Robotics Simulation  |         3 |
+|    8 | Quantum Foundations Visual Tools  | Plan 8 — Quantum Foundations                      |         3 |
+|    9 | QML Benchmark & Hybrid Tools      | Plan 9 — Advanced QML                             |         3 |
+|   10 | Quantum-First Product Assets      | Plan 10 — Product / Business / Developer Platform |         3 |
+|   11 | Embodied AI & Robotics Concepts   | Plan 11 — Embodied AI / Android Systems           |         3 |
+|   12 | Final Portfolio & Platform Portal | Plan 12 — Final Platform                          |         3 |
+
+Total:
+
+```txt
+36 proyectos propios aplicados
+```
+
+---
+
+# 1️⃣ Plan 1 — Applied ML Microproducts
+
+## Relación
+
+Acompaña:
+
+```txt
+AI Engineer Plan 1 — Machine Learning Engineering & Software Foundations
 ```
 
 ## Objetivo
 
-Construir herramientas pequeñas para visualizar, organizar y explicar conceptos de IA Cuántica aplicada.
-
-Este plan acompaña directamente el Plan 2 de Path-AI-Engineer.
-
-No reemplaza la construcción técnica de circuitos, simuladores o backends.
-
-La vuelve más visible, entendible y publicable.
-
----
+Crear microproductos de datos, ML clásico, análisis, predicción, reportes y dashboards.
 
 ## Proyectos
 
-| Proyecto | Nombre                              | Enfoque                               |
-| -------- | ----------------------------------- | ------------------------------------- |
-| 08       | `quantum-concepts-visual-notes`     | Notas visuales de conceptos cuánticos |
-| 09       | `quantum-provider-comparison-cards` | Comparador de proveedores cuánticos   |
-| 10       | `optimization-scenario-calculator`  | Calculadora ligera de optimización    |
-| 11       | `pqc-risk-checklist-lite`           | Checklist de riesgo post-cuántico     |
-| 12       | `quantum-paper-reading-tracker`     | Tracker de papers cuánticos           |
-| 13       | `hybrid-workflow-demo-portal`       | Portal ligero de workflows híbridos   |
+| Proyecto | Nombre                              | Tipo             | Enfoque                                           |
+| -------: | ----------------------------------- | ---------------- | ------------------------------------------------- |
+|       01 | `product-demand-insight-lite`       | Microproducto    | Insights de demanda y ventas                      |
+|       02 | `mini-sales-forecast-dashboard`     | Dashboard        | Forecasting simple y visual                       |
+|       03 | `ml-model-quality-report-generator` | Report Generator | Reporte de métricas, errores y decisión de modelo |
 
----
-
-## Temario principal
-
-* Qubits.
-* Superposición.
-* Medición.
-* Puertas cuánticas.
-* Circuitos básicos.
-* Qiskit conceptual.
-* IBM Quantum.
-* Amazon Braket.
-* Azure Quantum.
-* Provider mapping.
-* Quantum optimization.
-* Restricciones.
-* Costos.
-* Quantum-inspired optimization.
-* Post-Quantum Security.
-* RSA.
-* ECC.
-* PQC.
-* Research tracking.
-* Paper reading.
-* Hybrid workflows.
-* Costos.
-* Latencia.
-* Visualización.
-* Documentación.
-
----
-
-## Nivel esperado al terminar Plan 2
-
-| Área                                        |  Nivel |
-| ------------------------------------------- | -----: |
-| Documentación visual de conceptos cuánticos |   8/10 |
-| Explicación de qubits, gates y medición     | 7.5/10 |
-| Comparación de proveedores cuánticos        |   8/10 |
-| Organización de conceptos Quantum AI        |   8/10 |
-| Optimización aplicada ligera                | 7.5/10 |
-| Checklists de riesgo post-cuántico          |   8/10 |
-| Research tracking cuántico                  | 8.5/10 |
-| Paper reading workflow                      |   8/10 |
-| Portales explicativos de workflows híbridos |   8/10 |
-| Storytelling técnico Quantum AI             | 8.5/10 |
-| Evidencia visual de aprendizaje quantum     | 8.5/10 |
-
----
-
-# 3️⃣ Plan 3 — Producto, Negocio y Empresa Quantum-First
-
-Repositorio:
+## Resultado del plan
 
 ```txt
-Product-Quantum-First
+Sé convertir datos tabulares en insights, gráficos, dashboards y reportes simples.
+```
+
+---
+
+# 2️⃣ Plan 2 — Deep Learning Visual Tools
+
+## Relación
+
+Acompaña:
+
+```txt
+AI Engineer Plan 2 — Deep Learning Core
 ```
 
 ## Objetivo
 
-Construir herramientas pequeñas que mezclen producto, negocio, documentación, estrategia, IA aplicada y visión quantum-first.
-
-Este plan debe servir para convertir ideas empresariales en materiales visibles, presentables y entendibles.
-
----
+Crear herramientas visuales y demos pequeñas para explicar redes neuronales, PyTorch, CNNs, autoencoders y Transformers.
 
 ## Proyectos
 
-| Proyecto | Nombre                               | Enfoque                                       |
-| -------- | ------------------------------------ | --------------------------------------------- |
-| 14       | `company-vision-one-pager`           | One-pager de visión empresarial               |
-| 15       | `ai-product-line-catalog`            | Catálogo de productos IA                      |
-| 16       | `pqc-product-report-template`        | Plantilla de reporte PQC                      |
-| 17       | `optimization-service-proposal-lite` | Propuesta ligera de servicios de optimización |
-| 18       | `api-docs-template-builder`          | Generador de documentación API / SDK          |
-| 19       | `strategic-roadmap-portal-lite`      | Portal visual de roadmaps estratégicos        |
+| Proyecto | Nombre                               | Tipo        | Enfoque                               |
+| -------: | ------------------------------------ | ----------- | ------------------------------------- |
+|       04 | `neural-network-visual-explainer`    | Visual Tool | Forward pass, loss y training loop    |
+|       05 | `cnn-feature-map-viewer-lite`        | Visual Tool | Imágenes, filtros y feature maps      |
+|       06 | `transformer-attention-visual-notes` | Visual Tool | Tokens, embeddings y attention scores |
 
----
-
-## Temario principal
-
-* Producto.
-* Negocio.
-* One-pagers.
-* Catálogos.
-* Pricing.
-* MVP.
-* Reportes.
-* Propuestas.
-* Developer Experience.
-* API Docs.
-* Roadmaps.
-* Quantum-first strategy.
-* Product Strategy.
-* ROI.
-* Documentación.
-* Frontend ligero.
-* README.
-
----
-
-## Nivel esperado al terminar Plan 3
-
-| Área                                  |  Nivel |
-| ------------------------------------- | -----: |
-| Product thinking aplicado             | 8.5/10 |
-| One-pagers estratégicos               | 8.5/10 |
-| Catálogos de productos IA             |   8/10 |
-| Pricing y propuesta de valor          |   8/10 |
-| Plantillas de reportes empresariales  | 8.5/10 |
-| Propuestas de servicios quantum-ready |   8/10 |
-| Developer Experience                  | 8.5/10 |
-| Documentación de APIs                 | 8.5/10 |
-| Roadmaps visuales                     | 8.5/10 |
-| Storytelling de negocio               | 8.5/10 |
-| Evidencia de pensamiento fundador     | 8.5/10 |
-
----
-
-# 4️⃣ Plan 4 — Investigación Aplicada / Quantum AI Tools Ligeros
-
-Repositorio:
+## Resultado del plan
 
 ```txt
-Quantum-AI-Research
+Sé explicar visualmente cómo aprende una red profunda y cómo se conectan sus piezas.
+```
+
+---
+
+# 3️⃣ Plan 3 — Advanced ML Applied Tools
+
+## Relación
+
+Acompaña:
+
+```txt
+AI Engineer Plan 3 — Advanced ML Backgrounds
 ```
 
 ## Objetivo
 
-Construir herramientas pequeñas para organizar investigación, benchmarks, conceptos, experimentos, optimizadores, roadmaps y documentación técnica avanzada.
-
-Este plan acompaña los planes avanzados sin competir con ellos.
-
----
+Construir herramientas pequeñas para clustering, anomalías, recomendadores, causalidad e incertidumbre.
 
 ## Proyectos
 
-| Proyecto | Nombre                                  | Enfoque                                      |
-| -------- | --------------------------------------- | -------------------------------------------- |
-| 20       | `qml-benchmark-summary-viewer`          | Visualizador de benchmarks QML               |
-| 21       | `kernel-results-visualizer-lite`        | Visualizador de kernels clásicos y cuánticos |
-| 22       | `optimizer-results-visualizer-lite`     | Visualizador de optimizadores variacionales  |
-| 23       | `quantum-error-visual-notes`            | Notas visuales de errores cuánticos          |
-| 24       | `technical-migration-roadmap-generator` | Generador de roadmap de migración técnica    |
-| 25       | `personal-ai-lab-portal-lite`           | Portal final de laboratorio personal         |
+| Proyecto | Nombre                           | Tipo             | Enfoque                                                |
+| -------: | -------------------------------- | ---------------- | ------------------------------------------------------ |
+|       07 | `cluster-insight-dashboard-lite` | Dashboard        | Clustering, perfiles y visualización                   |
+|       08 | `anomaly-alert-report-generator` | Report Generator | Anomalías, scores y alertas                            |
+|       09 | `recommendation-playground-lite` | Microproducto    | Recomendaciones por popularidad, contenido y similitud |
 
----
-
-## Temario principal
-
-* Investigación.
-* Papers.
-* Benchmarks.
-* Resumen.
-* Conceptos.
-* Mapas técnicos.
-* Visualización.
-* Experimentos.
-* Optimizadores.
-* Convergencia.
-* Roadmaps.
-* Documentación técnica.
-* APIs.
-* Templates.
-* Portales.
-* Notas visuales.
-* AI Lab personal.
-
----
-
-## Nivel esperado al terminar Plan 4
-
-| Área                                |  Nivel |
-| ----------------------------------- | -----: |
-| Research tracking                   | 8.5/10 |
-| Benchmark summary                   | 8.5/10 |
-| Visualización de resultados         |   8/10 |
-| Quantum ML notes                    |   8/10 |
-| Kernel benchmark reporting          |   8/10 |
-| Optimizer results visualization     |   8/10 |
-| Notas visuales de error correction  | 8.5/10 |
-| Roadmaps técnicos                   | 8.5/10 |
-| Developer Experience aplicada       | 8.5/10 |
-| Portal final de laboratorio         |   9/10 |
-| Storytelling técnico avanzado       | 8.5/10 |
-| Evidencia de investigación aplicada | 8.5/10 |
-
----
-
-# 🧱 Ciclo general de cada proyecto
-
-Cada proyecto propio, sin importar el plan, debe seguir este ciclo:
+## Resultado del plan
 
 ```txt
-1. Definir problema.
-2. Definir usuario.
-3. Definir valor.
-4. Definir alcance pequeño.
-5. Crear README inicial.
-6. Crear estructura de carpetas.
-7. Crear primera versión funcional o documental.
-8. Agregar módulos.
-9. Crear labs pequeños.
-10. Probar si aplica.
-11. Documentar decisiones.
-12. Agregar capturas.
-13. Preparar demo o evidencia.
-14. Escribir aprendizajes.
-15. Definir limitaciones.
-16. Definir siguiente paso.
-17. Publicar en GitHub.
-18. Conectar con el proyecto grande correspondiente.
+Sé crear herramientas visibles para ML avanzado sin convertir todo en plataforma pesada.
 ```
 
 ---
 
-# 📦 Repositorios de la organización
+# 4️⃣ Plan 4 — Vision & Multimodal Demos
 
-## `Applied-AI`
+## Relación
 
-Ruta de IA aplicada y microproductos ML.
+Acompaña:
 
-Contiene proyectos de:
+```txt
+AI Engineer Plan 4 — Computer Vision, Multimodal AI & Edge Optimization
+```
 
-* EDA.
-* Pandas.
-* Dashboards.
-* Forecasting ligero.
-* Reportes ML.
-* RAG ligero.
-* Costos y latencia.
-* Portafolio técnico.
+## Objetivo
 
-## `Applied-Quantum-AI`
+Crear demos visuales para clasificación, búsqueda visual, object detection, imagen-texto y edge AI.
 
-Ruta de IA cuántica aplicada ligera.
+## Proyectos
 
-Contiene proyectos de:
+| Proyecto | Nombre                       | Tipo          | Enfoque                                       |
+| -------: | ---------------------------- | ------------- | --------------------------------------------- |
+|       10 | `image-classifier-demo-card` | Demo          | Clasificación visual con resultado explicable |
+|       11 | `visual-search-gallery-lite` | Microproducto | Búsqueda por similitud de imágenes            |
+|       12 | `image-text-assistant-demo`  | Demo          | Imagen + pregunta + respuesta controlada      |
 
-* Notas visuales quantum.
-* Comparadores de proveedores.
-* Calculadoras de optimización.
-* Checklists PQC.
-* Trackers de papers.
-* Portales de workflows híbridos.
+## Resultado del plan
 
-## `Product-Quantum-First`
-
-Ruta de producto, negocio y empresa quantum-first.
-
-Contiene proyectos de:
-
-* One-pagers.
-* Catálogos de productos.
-* Plantillas de reportes.
-* Propuestas de servicios.
-* API docs.
-* Roadmaps estratégicos.
-
-## `Quantum-AI-Research`
-
-Ruta de investigación aplicada y herramientas Quantum AI ligeras.
-
-Contiene proyectos de:
-
-* Benchmarks.
-* Visualizadores.
-* Optimizers.
-* Notas visuales.
-* Roadmaps técnicos.
-* Portal final de laboratorio.
+```txt
+Sé crear demos visuales de percepción, búsqueda y multimodalidad.
+```
 
 ---
 
-# 🔗 Relación con Path-AI-Engineer
+# 5️⃣ Plan 5 — RAG, Agents & Tooling Apps
 
-La ruta principal de AI Engineer se acompaña con esta ruta paralela de proyectos propios.
+## Relación
 
-La regla es:
+Acompaña:
 
 ```txt
-Path-AI-Engineer = profundidad técnica.
-Building-Projects = aplicación visible.
-Path-AI-Engineer = sistemas grandes.
-Building-Projects = herramientas terminables.
-Ambos juntos = formación + evidencia real.
+AI Engineer Plan 5 — LLMs, RAG, Agents & Agentic Systems
 ```
+
+## Objetivo
+
+Construir herramientas pequeñas de documentos, búsqueda semántica, RAG, tool use, evaluación y agentes simples.
+
+## Proyectos
+
+| Proyecto | Nombre                              | Tipo             | Enfoque                                      |
+| -------: | ----------------------------------- | ---------------- | -------------------------------------------- |
+|       13 | `personal-document-search-rag-lite` | Microproducto    | Buscar y responder con documentos personales |
+|       14 | `tool-calling-playground-lite`      | Lab aplicado     | Tools, schemas y function calling            |
+|       15 | `rag-answer-quality-checker`        | Report Generator | Evaluar respuestas, fuentes y contexto       |
+
+## Resultado del plan
+
+```txt
+Sé construir asistentes pequeños con fuentes, herramientas y evaluación visible.
+```
+
+---
+
+# 6️⃣ Plan 6 — Generative AI Demo Tools
+
+## Relación
+
+Acompaña:
+
+```txt
+AI Engineer Plan 6 — Generative Models & Diffusion Systems
+```
+
+## Objetivo
+
+Crear demos y evaluadores de modelos generativos, denoising, condicionamiento y calidad de outputs.
+
+## Proyectos
+
+| Proyecto | Nombre                               | Tipo        | Enfoque                                   |
+| -------: | ------------------------------------ | ----------- | ----------------------------------------- |
+|       16 | `latent-space-interpolation-demo`    | Visual Tool | Interpolación y representaciones latentes |
+|       17 | `diffusion-denoising-visual-demo`    | Visual Tool | Ruido progresivo y denoising              |
+|       18 | `generative-output-evaluation-board` | Dashboard   | Calidad, diversidad, alignment y fallos   |
+
+## Resultado del plan
+
+```txt
+Sé mostrar y evaluar generación de contenido con criterio visual y técnico.
+```
+
+---
+
+# 7️⃣ Plan 7 — RL & Simulation Visual Labs
+
+## Relación
+
+Acompaña:
+
+```txt
+AI Engineer Plan 7 — Reinforcement Learning, World Models & Robotics Simulation
+```
+
+## Objetivo
+
+Crear visualizadores y demos pequeñas para agentes, estados, acciones, recompensas, Q-learning y simulación.
+
+## Proyectos
+
+| Proyecto | Nombre                             | Tipo        | Enfoque                                      |
+| -------: | ---------------------------------- | ----------- | -------------------------------------------- |
+|       19 | `gridworld-agent-visualizer`       | Visual Tool | Estados, acciones, recompensas y trayectoria |
+|       20 | `q-learning-policy-dashboard`      | Dashboard   | Q-table, política aprendida y recompensa     |
+|       21 | `robotics-simulation-notes-portal` | Demo Portal | Simulación, control, fallos y safety notes   |
+
+## Resultado del plan
+
+```txt
+Sé visualizar cómo un agente aprende, actúa y falla dentro de una simulación.
+```
+
+---
+
+# 8️⃣ Plan 8 — Quantum Foundations Visual Tools
+
+## Relación
+
+Acompaña:
+
+```txt
+AI Engineer Plan 8 — Quantum Computing & Quantum AI Foundations
+```
+
+## Objetivo
+
+Crear herramientas visuales para explicar qubits, gates, circuitos, medición, proveedores cloud y seguridad post-cuántica.
+
+## Proyectos
+
+| Proyecto | Nombre                              | Tipo             | Enfoque                             |
+| -------: | ----------------------------------- | ---------------- | ----------------------------------- |
+|       22 | `quantum-concepts-visual-notes`     | Visual Tool      | Qubits, medición, gates y circuitos |
+|       23 | `quantum-provider-comparison-cards` | Visual Tool      | IBM, Braket, Azure y backends       |
+|       24 | `pqc-risk-checklist-lite`           | Report Generator | Checklist de riesgo post-cuántico   |
+
+## Resultado del plan
+
+```txt
+Sé explicar fundamentos cuánticos y riesgo post-cuántico en herramientas visuales.
+```
+
+---
+
+# 9️⃣ Plan 9 — QML Benchmark & Hybrid Tools
+
+## Relación
+
+Acompaña:
+
+```txt
+AI Engineer Plan 9 — Advanced Quantum Machine Learning & Hybrid AI-Quantum Platforms
+```
+
+## Objetivo
+
+Crear herramientas para visualizar benchmarks QML, comparar kernels, optimizadores, ruido y workflows híbridos.
+
+## Proyectos
+
+| Proyecto | Nombre                                  | Tipo        | Enfoque                               |
+| -------: | --------------------------------------- | ----------- | ------------------------------------- |
+|       25 | `qml-benchmark-summary-viewer`          | Dashboard   | Comparar modelos QML vs clásicos      |
+|       26 | `quantum-kernel-results-visualizer`     | Visual Tool | Kernels clásicos/cuánticos y métricas |
+|       27 | `optimizer-convergence-visualizer-lite` | Visual Tool | QAOA/VQE, optimizers y convergencia   |
+
+## Resultado del plan
+
+```txt
+Sé convertir experimentos QML en tablas, gráficos y reportes comparativos.
+```
+
+---
+
+# 🔟 Plan 10 — Quantum-First Product Assets
+
+## Relación
+
+Acompaña:
+
+```txt
+AI Engineer Plan 10 — Quantum-First Business, Product & Developer Platform
+```
+
+## Objetivo
+
+Crear materiales aplicados de producto, negocio, one-pagers, propuestas, catálogos, APIs y roadmaps.
+
+## Proyectos
+
+| Proyecto | Nombre                                | Tipo          | Enfoque                                       |
+| -------: | ------------------------------------- | ------------- | --------------------------------------------- |
+|       28 | `quantum-first-company-one-pager`     | Biz Asset     | Visión, misión y tesis de empresa             |
+|       29 | `ai-quantum-product-catalog-lite`     | Product Asset | Catálogo de productos AI + Quantum            |
+|       30 | `developer-api-docs-template-builder` | Tool          | Plantillas de API docs y developer experience |
+
+## Resultado del plan
+
+```txt
+Sé convertir visión técnica en materiales de producto, negocio y developer platform.
+```
+
+---
+
+# 1️⃣1️⃣ Plan 11 — Embodied AI & Robotics Concepts
+
+## Relación
+
+Acompaña:
+
+```txt
+AI Engineer Plan 11 — Embodied AI, Humanoid Robotics & Android Systems
+```
+
+## Objetivo
+
+Crear mapas, portales y herramientas conceptuales para embodied AI, percepción, memoria, acción, humanoides y android systems.
+
+## Proyectos
+
+| Proyecto | Nombre                                  | Tipo        | Enfoque                                     |
+| -------: | --------------------------------------- | ----------- | ------------------------------------------- |
+|       31 | `embodied-agent-loop-visualizer`        | Visual Tool | Observación, memoria, acción y consecuencia |
+|       32 | `humanoid-architecture-cards`           | Visual Tool | Sensores, actuadores, control y safety      |
+|       33 | `android-cognitive-architecture-portal` | Demo Portal | Percepción, memoria, razonamiento y acción  |
+
+## Resultado del plan
+
+```txt
+Sé presentar embodied AI, humanoides y android systems como arquitectura seria, no fantasía.
+```
+
+---
+
+# 1️⃣2️⃣ Plan 12 — Final Portfolio & Platform Portal
+
+## Relación
+
+Acompaña:
+
+```txt
+AI Engineer Plan 12 — Final AI + Quantum + Robotics Platform
+```
+
+## Objetivo
+
+Crear los activos finales de portafolio, plataforma, documentación, roadmap, demo y evidencia global.
+
+## Proyectos
+
+| Proyecto | Nombre                                 | Tipo               | Enfoque                                              |
+| -------: | -------------------------------------- | ------------------ | ---------------------------------------------------- |
+|       34 | `ai-quantum-robotics-roadmap-portal`   | Demo Portal        | Mapa visual de toda la ruta                          |
+|       35 | `personal-ai-lab-portfolio-platform`   | Portfolio Platform | Proyectos, demos, aprendizajes y links               |
+|       36 | `final-technical-storytelling-package` | Final Package      | README final, demo script, pitch técnico y CV assets |
+
+## Resultado del plan
+
+```txt
+Sé presentar toda mi ruta como evidencia integrada: proyectos, herramientas, demos, arquitectura y visión.
+```
+
+---
+
+# 📊 Cronograma general Building Projects 2.0
+
+| Proyecto | Nombre                                  | Plan relacionado |
+| -------: | --------------------------------------- | ---------------- |
+|       01 | `product-demand-insight-lite`           | Plan 1           |
+|       02 | `mini-sales-forecast-dashboard`         | Plan 1           |
+|       03 | `ml-model-quality-report-generator`     | Plan 1           |
+|       04 | `neural-network-visual-explainer`       | Plan 2           |
+|       05 | `cnn-feature-map-viewer-lite`           | Plan 2           |
+|       06 | `transformer-attention-visual-notes`    | Plan 2           |
+|       07 | `cluster-insight-dashboard-lite`        | Plan 3           |
+|       08 | `anomaly-alert-report-generator`        | Plan 3           |
+|       09 | `recommendation-playground-lite`        | Plan 3           |
+|       10 | `image-classifier-demo-card`            | Plan 4           |
+|       11 | `visual-search-gallery-lite`            | Plan 4           |
+|       12 | `image-text-assistant-demo`             | Plan 4           |
+|       13 | `personal-document-search-rag-lite`     | Plan 5           |
+|       14 | `tool-calling-playground-lite`          | Plan 5           |
+|       15 | `rag-answer-quality-checker`            | Plan 5           |
+|       16 | `latent-space-interpolation-demo`       | Plan 6           |
+|       17 | `diffusion-denoising-visual-demo`       | Plan 6           |
+|       18 | `generative-output-evaluation-board`    | Plan 6           |
+|       19 | `gridworld-agent-visualizer`            | Plan 7           |
+|       20 | `q-learning-policy-dashboard`           | Plan 7           |
+|       21 | `robotics-simulation-notes-portal`      | Plan 7           |
+|       22 | `quantum-concepts-visual-notes`         | Plan 8           |
+|       23 | `quantum-provider-comparison-cards`     | Plan 8           |
+|       24 | `pqc-risk-checklist-lite`               | Plan 8           |
+|       25 | `qml-benchmark-summary-viewer`          | Plan 9           |
+|       26 | `quantum-kernel-results-visualizer`     | Plan 9           |
+|       27 | `optimizer-convergence-visualizer-lite` | Plan 9           |
+|       28 | `quantum-first-company-one-pager`       | Plan 10          |
+|       29 | `ai-quantum-product-catalog-lite`       | Plan 10          |
+|       30 | `developer-api-docs-template-builder`   | Plan 10          |
+|       31 | `embodied-agent-loop-visualizer`        | Plan 11          |
+|       32 | `humanoid-architecture-cards`           | Plan 11          |
+|       33 | `android-cognitive-architecture-portal` | Plan 11          |
+|       34 | `ai-quantum-robotics-roadmap-portal`    | Plan 12          |
+|       35 | `personal-ai-lab-portfolio-platform`    | Plan 12          |
+|       36 | `final-technical-storytelling-package`  | Plan 12          |
+
+---
+
+# 📁 Estructura general recomendada
+
+Cada proyecto puede seguir una estructura ligera como esta:
+
+```txt
+project-name/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── src/
+│   ├── core/
+│   ├── analysis/
+│   ├── visualization/
+│   └── utils/
+│
+├── reports/
+│   ├── figures/
+│   ├── summaries/
+│   └── outputs/
+│
+├── dashboard/
+│
+├── docs/
+│   ├── decisions.md
+│   ├── methodology.md
+│   └── architecture.md
+│
+├── labs/
+│   ├── tec-labs/
+│   ├── cloud-labs/
+│   ├── product-labs/
+│   └── biz-labs/
+│
+└── scripts/
+```
+
+No todos los proyectos deben tener todas las carpetas.
+
+Regla:
+
+```txt
+La estructura debe servir al proyecto.
+No el proyecto a la estructura.
+```
+
+---
+
+# 🧭 Regla de avance
+
+Cada proyecto debe cerrar con:
+
+```txt
+README claro
+capturas o outputs
+resultado visible
+limitaciones
+aprendizajes
+siguiente paso
+conexión con AI Engineer
+```
+
+Cada proyecto debe responder:
+
+```txt
+¿Qué construí?
+¿Para quién sirve?
+¿Qué demuestra?
+¿Qué aprendí?
+¿Qué evidencia dejé?
+¿Cómo se conecta con mi ruta principal?
+```
+
+---
+
+# 📊 Nivel esperado al terminar Building Projects 2.0
+
+| Área                              | Nivel esperado |
+| --------------------------------- | -------------: |
+| Microproductos AI                 |         8.5/10 |
+| Dashboards ligeros                |         8.5/10 |
+| Visualización técnica             |         8.5/10 |
+| Storytelling técnico              |           9/10 |
+| Report generators                 |         8.5/10 |
+| README profesional                |           9/10 |
+| Demo local                        |         8.5/10 |
+| Portfolio building                |           9/10 |
+| Producto técnico                  |         8.5/10 |
+| Product thinking                  |           8/10 |
+| Developer assets                  |           8/10 |
+| Quantum visual explanation        |           8/10 |
+| Robotics conceptual communication |           8/10 |
+| Evidencia aplicada                |           9/10 |
 
 ---
 
 # 🧠 Resultado global esperado
 
-Al completar esta ruta, mi perfil no será simplemente:
+Al completar Building Projects 2.0, podré decir:
 
 ```txt
-Estoy haciendo proyectos aparte.
-```
+No solo estudié AI Engineer.
+También construí evidencia visible durante toda la ruta.
 
-Será:
-
-```txt
-Sé construir microproductos de IA.
-Sé convertir datos en insights.
-Sé crear dashboards útiles.
-Sé hacer herramientas RAG pequeñas.
-Sé crear asistentes de estudio.
-Sé aplicar IA a negocio real.
-Sé crear herramientas de documentación técnica.
-Sé organizar investigación.
-Sé visualizar benchmarks.
-Sé crear portales técnicos.
-Sé hacer proyectos pequeños pero terminables.
-Sé acompañar mi ruta grande con evidencia aplicada.
+Tengo microproductos.
+Tengo dashboards.
+Tengo visualizadores.
+Tengo reportes.
+Tengo demos.
+Tengo portales.
+Tengo herramientas pequeñas.
+Tengo assets de producto.
+Tengo documentación técnica.
+Tengo un portafolio que muestra progreso real.
 ```
 
 ---
 
-# 🧭 Regla final de avance
+# 🧭 Regla final
 
 ```txt
-Exploro antes de ejecutar.
-Ejecuto con mapa.
-Cierro cada lab.
-Documento cada avance.
-Comparo antes de mejorar.
-No construyo por copiar.
-Construyo para entender.
-```
+Building Projects no compite con AI Engineer.
+Lo traduce a evidencia visible.
 
-Frase guía:
+AI Engineer construye profundidad.
+Building Projects construye presencia.
 
-```txt
-Aprendo profundo en Path-AI-Engineer.
-Construyo visible en Building-Projects.
-Uno me forma.
-El otro me muestra.
+AI Engineer forma el ingeniero.
+Building Projects muestra al mundo lo que el ingeniero puede hacer.
 ```
 
 ---
@@ -777,5 +834,5 @@ El otro me muestra.
 
 **Jean Franck Loa Rojas**
 
-AI Engineer Path Builder
-Machine Learning • MLOps • RAG • Agents • Quantum AI • Product Building • Research Tools
+Building Projects Path Builder
+Applied AI • Microproducts • Dashboards • Visual Tools • Quantum Notes • Product Assets • Robotics Concepts • Portfolio Systems
